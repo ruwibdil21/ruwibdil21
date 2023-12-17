@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Ruwani Bhagya Dilshani</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
 - 🌱 I’m currently learning **IJSE**
 
